@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: non-open-source
 pragma solidity >=0.6.0 <0.8.0;
 
-// This is a contract for donation fund account
+// This is a contract for a fund account
 // The address deployed the contract is the 
 // funding account
 // Donation is for adding fund to this account
